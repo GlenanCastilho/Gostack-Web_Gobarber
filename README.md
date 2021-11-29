@@ -18,13 +18,15 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>React</li>
+  <li>Typescript</li>
+  <li>Axios</li>
+  <li>Styled-components</li>
+  <li>Polished</li>
+  <li>React-spring</li>
+  <li>Yup</li>
+  <li>Date-fns</li>
+  <li>React-day-picker</li>
 </ul>
 
 <br>
