@@ -11,7 +11,7 @@
 
 <h1>📃 Sobre</h1>
  
-<h4 align="justify"></h4>
+<h4 align="justify">Uma aplicação feita para controlar a agenda dos prestadores de serviço, como Salões de Beleza e Barbeiros. Já os clientes podem fazer os agendamentos via aplicação Mobile.</h4>
 
 <br>
 
